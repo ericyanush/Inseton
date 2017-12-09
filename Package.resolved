@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AsyncSerial",
+        "repositoryURL": "https://github.com/ericyanush/AsyncSerial.git",
+        "state": {
+          "branch": "master",
+          "revision": "e8b109487181e8d2b2d5f3d84d9ce50cfe0d69e4",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
